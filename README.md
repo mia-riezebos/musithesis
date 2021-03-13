@@ -49,6 +49,8 @@ I enjoy discovering new artists and finding new inspiration for my own music. Th
 - Draper
 - DROELOE
 - Duumu
+- Dylan Tallchief
+- Electric Mantis
 - Engelwood
 - Ephixa
 - First of October
@@ -111,7 +113,7 @@ I enjoy discovering new artists and finding new inspiration for my own music. Th
 - Oliver Tree
 - Our Psych
 - Patch
-- egboard Nerds
+- Pegboard Nerds
 - Piate Boyz
 - Pixel Terror
 - Plini
