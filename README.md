@@ -6,7 +6,7 @@ I enjoy discovering new artists and finding new inspiration for my own music. Th
 - Explore this repo and listen to the music by the artists I feature here!
 - Leave your own feedback on any or all of the songs I review here! I love hearing fresh ideas and reasons why I'm wrong.
 #### Please **don't**:
-- View anything I say in this repo as objective fact. these are just my personal opinions.
+- View anything I say in this repo as objective fact. These are just my personal opinions.
 - Take anything I say as negative feelings toward any of the wonderful artists and people. I am *only* reviewing the music here.
 
 ## A list of artists I enjoy listening to and feature in this repo:
