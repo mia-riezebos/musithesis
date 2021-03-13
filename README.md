@@ -1,15 +1,15 @@
-# Music I Enjoy
-This repo is entirely my subjective opinion on a bunch of music I listen to or have listened to in the past.
-I enjoy discovering new artists and finding new inspiration for my own music. This repository is dedicated to that passion of discovery and analysis.
+# Musithesis
+This repo is entirely a compilation of subjective opinions on a bunch of music we listen to or have listened to in the past.
+We all enjoy discovering new artists and finding new inspiration for our own projects. This repository is dedicated to that passion of discovery and analysis.
 
 #### Please **do**:
-- Explore this repo and listen to the music by the artists I feature here!
-- Leave your own feedback on any or all of the songs I review here! I love hearing fresh ideas and reasons why I'm wrong.
+- Explore this repo and listen to the music by the artists we feature here!
+- [Leave your own feedback](https://github.com/miadotcx/Musithesis/discussions) on any or all of the songs we review here! We love hearing fresh ideas and reasons why We're wrong.
 #### Please **don't**:
-- View anything I say in this repo as objective fact. These are just my personal opinions.
-- Take anything I say as negative feelings toward any of the wonderful artists and people. I am *only* reviewing the music here.
+- View anything we say in this repo as objective fact. These are just our personal opinions.
+- Take anything we say as negative feelings toward any of the wonderful artists and people. We are only reviewing the *music* here.
 
-## A list of artists I enjoy listening to and feature in this repo:
+## A list of artists we enjoy listening to and will feature in this repo:
 - 100 gecs
 - acloudyskye
 - Adam Tell
