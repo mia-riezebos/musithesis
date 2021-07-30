@@ -10,7 +10,7 @@ We all enjoy discovering new artists and finding new inspiration for our own pro
 - Take anything we say as negative feelings toward any of the wonderful artists and people. We are only reviewing the *music* here.
 
 #### When posting:
-Please take a look at these [artist]() and [release]() examples to get a general idea of how to contribute to the discussions.
+Please take a look at these [artist](https://github.com/mia-cx/musithesis/discussions/4) and [release]() examples to get a general idea of how to contribute to the discussions.
 <!-- ## A list of artists we enjoy listening to and will feature in this repo:
 - 100 gecs
 - acloudyskye
